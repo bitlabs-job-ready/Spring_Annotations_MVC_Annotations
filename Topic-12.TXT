@@ -1,0 +1,6 @@
+1.Develop a spring MVC application by using Annotations.
+-The Model class name is Employee and bellow are the attributes
+*private long id,
+*private String name;
+
+-perform CRUD operations on above class by using Annotations.
